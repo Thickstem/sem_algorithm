@@ -1,5 +1,3 @@
-import numpy as np
-COUNTER=0
 class rec:
     def __init__(self) -> None:
         self.counter=0
